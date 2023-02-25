@@ -1,2 +1,2 @@
-# MyOwnSmallProjects
+# MyTrials
 Mix: JAVA, Swing, Cucumber, Gherkin, Webdriver, TestNG and other...
